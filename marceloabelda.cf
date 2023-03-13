@@ -16,6 +16,10 @@ body        EURO_MILLION          /EURO MILLION/i
 score       EURO_MILLION          10.0
 
 
+describe    AUDIENCIA             AVISO PARA ASISTIR A UNA AUDIENCIA
+body        AUDIENCIA             /AVISO PARA ASISTIR A UNA AUDIENCIA/i
+score       AUDIENCIA             10.0
+
 
 
 
