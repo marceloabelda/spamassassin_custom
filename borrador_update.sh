@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Definimos la URL del archivo a descargar y la ubicación local
-URL="https://ejemplo.com/archivo.txt"
-LOCAL="/ruta/a/mi/archivo.txt"
+URL="https://raw.githubusercontent.com/marceloabelda/spamassassin_custom/main/MARCELOABELDA.cf"
+LOCAL="/usr/share/spamassassin-extra/MARCELOABELDA.cf"
 
 # Descargamos el archivo desde la URL
 TEMP=$(mktemp)
@@ -13,8 +13,8 @@ if ! cmp -s "$LOCAL" "$TEMP"; then
   # Si son distintos, reemplazamos el archivo local con el descargado
   mv "$TEMP" "$LOCAL"
   
-  # Reiniciamos el servicio (suponiendo que se llama "servicio")
-  systemctl restart servicio
+  # Reiniciamos pmg-smtp-filter
+  systemctl restart pmg-smtp-filter
   
   echo "Archivo actualizado y servicio reiniciado"
 else
