@@ -21,6 +21,13 @@ body        MA_BODY_005           /AVISO PARA ASISTIR A UNA AUDIENCIA/i
 score       MA_BODY_005           10.0
 
 
+describe    MA_BODY_006           app.goo.gl
+body        MA_BODY_006           /app.goo.gl/i
+score       MA_BODY_006           10.0
+
+
+
+
 
 
 
