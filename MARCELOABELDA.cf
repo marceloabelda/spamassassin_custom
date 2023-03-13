@@ -1,24 +1,24 @@
-describe    FISCALIA              Fiscalia General de la Republica
-body        FISCALIA              /Fiscalia General de la Republica/i
-score       FISCALIA              10.0
+describe    MA_BODY_001           Fiscalia General de la Republica
+body        MA_BODY_001           /Fiscalia General de la Republica/i
+score       MA_BODY_001           10.0
 
-describe    MAILBOX_FULL          your mailbox is nearly full
-body        MAILBOX_FULL          /your mailbox is nearly full/i
-score       MAILBOX_FULL           10.0
+describe    MA_BODY_002          your mailbox is nearly full
+body        MA_BODY_002          /your mailbox is nearly full/i
+score       MA_BODY_002           10.0
 
-describe    ESPIRE_SOON           is scheduled to expire soon
-body        ESPIRE_SOON           /is scheduled to expire soon/i
-score       ESPIRE_SOON           10.0
-
-
-describe    EURO_MILLION          EURO MILLION
-body        EURO_MILLION          /EURO MILLION/i
-score       EURO_MILLION          10.0
+describe    MA_BODY_003           is scheduled to expire soon
+body        MA_BODY_003           /is scheduled to expire soon/i
+score       MA_BODY_004           10.0
 
 
-describe    AUDIENCIA             AVISO PARA ASISTIR A UNA AUDIENCIA
-body        AUDIENCIA             /AVISO PARA ASISTIR A UNA AUDIENCIA/i
-score       AUDIENCIA             10.0
+describe    MA_BODY_004          EURO MILLION
+body        MA_BODY_004          /EURO MILLION/i
+score       MA_BODY_004          10.0
+
+
+describe    MA_BODY_005           AVISO PARA ASISTIR A UNA AUDIENCIA
+body        MA_BODY_005           /AVISO PARA ASISTIR A UNA AUDIENCIA/i
+score       MA_BODY_005           10.0
 
 
 
