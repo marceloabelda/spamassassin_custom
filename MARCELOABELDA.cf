@@ -32,6 +32,11 @@ body        MA_BODY_007           /Password Reset/i
 score       MA_BODY_007           10.0
 
 
+describe    MA_BODY_008           messages pending
+body        MA_BODY_008           /messages pending/i
+score       MA_BODY_008           10.0
+
+
 
 
 
