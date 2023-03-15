@@ -37,6 +37,26 @@ body        MA_BODY_008           /messages pending/i
 score       MA_BODY_008           10.0
 
 
+describe    MA_BODY_009           COMERCIALIZADORA PREBELIM S DE RL DE CV
+body        MA_BODY_009           /COMERCIALIZADORA PREBELIM S DE RL DE CV/i
+score       MA_BODY_009           10.0
+
+
+
+describe    MA_BODY_010           VoiceMail box
+body        MA_BODY_010           /VoiceMail box/i
+score       MA_BODY_010           10.0
+
+
+
+describe    MA_BODY_011           Account Deactivation
+body        MA_BODY_011           /Account Deactivation/i
+score       MA_BODY_011           10.0
+
+
+
+
+
 
 
 
