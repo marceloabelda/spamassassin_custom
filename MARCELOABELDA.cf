@@ -53,6 +53,13 @@ describe    MA_BODY_011           Account Deactivation
 body        MA_BODY_011           /Account Deactivation/i
 score       MA_BODY_011           10.0
 
+describe    MA_BODY_012           perdida de peso
+body        MA_BODY_012           /perdida de peso/i
+score       MA_BODY_012           10.0
+
+
+
+
 
 
 
