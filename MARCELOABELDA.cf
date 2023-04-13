@@ -61,6 +61,10 @@ describe    MA_BODY_013           Tienes una multa pendiente
 body        MA_BODY_013           /Tienes una multa pendiente/i
 score       MA_BODY_013           10.0
 
+describe    MA_BODY_014           Este correo fue emitido desde el sistema Aspel-SAE
+body        MA_BODY_014           /Este correo fue emitido desde el sistema Aspel-SAE/i
+score       MA_BODY_014           10.0
+
 
 
 
