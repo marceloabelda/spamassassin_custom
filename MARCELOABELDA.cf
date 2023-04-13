@@ -57,6 +57,9 @@ describe    MA_BODY_012           perdida de peso
 body        MA_BODY_012           /perdida de peso/i
 score       MA_BODY_012           10.0
 
+describe    MA_BODY_013           Tienes una multa pendiente
+body        MA_BODY_013           /Tienes una multa pendiente/i
+score       MA_BODY_013           10.0
 
 
 
