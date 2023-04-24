@@ -65,7 +65,9 @@ describe    MA_BODY_014           Este correo fue emitido desde el sistema Aspel
 body        MA_BODY_014           /Este correo fue emitido desde el sistema Aspel-SAE/i
 score       MA_BODY_014           10.0
 
-
+describe    MA_BODY_015           Anti-Edad
+body        MA_BODY_015           /Anti-Edad/i
+score       MA_BODY_015           10.0
 
 
 
