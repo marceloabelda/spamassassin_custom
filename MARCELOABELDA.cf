@@ -74,6 +74,14 @@ body        MA_BODY_016           /AFIF/i
 score       MA_BODY_016           10.0
 
 
+describe    MA_BODY_017           EVITE INCONVENIENTES EN SU DOMICILIO
+body        MA_BODY_017           /EVITE INCONVENIENTES EN SU DOMICILIO/i
+score       MA_BODY_017           10.0
+
+
+
+
+
 
 
 
