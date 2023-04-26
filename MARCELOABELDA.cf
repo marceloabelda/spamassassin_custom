@@ -69,6 +69,10 @@ describe    MA_BODY_015           Anti-Edad
 body        MA_BODY_015           /Anti-Edad/i
 score       MA_BODY_015           10.0
 
+describe    MA_BODY_016           AFIF
+body        MA_BODY_016           /AFIF/i
+score       MA_BODY_016           10.0
+
 
 
 
