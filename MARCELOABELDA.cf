@@ -78,7 +78,13 @@ describe    MA_BODY_017           EVITE INCONVENIENTES EN SU DOMICILIO
 body        MA_BODY_017           /EVITE INCONVENIENTES EN SU DOMICILIO/i
 score       MA_BODY_017           10.0
 
+describe    MA_BODY_018           zimbra
+body        MA_BODY_018           /zimbra/i
+score       MA_BODY_018           10.0
 
+describe    MA_BODY_019           cpanel
+body        MA_BODY_019           /cpanel/i
+score       MA_BODY_019           10.0
 
 
 
