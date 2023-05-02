@@ -86,6 +86,9 @@ describe    MA_BODY_019           cpanel
 body        MA_BODY_019           /cpanel/i
 score       MA_BODY_019           10.0
 
+describe    MA_BODY_020           Enerflex
+body        MA_BODY_020           /Enerflex/i
+score       MA_BODY_020           10.0
 
 
 
