@@ -90,6 +90,11 @@ describe    MA_BODY_020           Enerflex
 body        MA_BODY_020           /Enerflex/i
 score       MA_BODY_020           10.0
 
+describe    MA_BODY_021           Abrir en una computadora con Windows
+body        MA_BODY_021           /Abrir en una computadora con Windows/i
+score       MA_BODY_021           10.0
+
+
 
 
 
